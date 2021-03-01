@@ -1,0 +1,2 @@
+# Supinfo
+Supinfo tests.
